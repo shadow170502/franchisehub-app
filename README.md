@@ -1,1 +1,0 @@
-# franchisehub-app
